@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\AlgorithmsAndDataStructures\PairsElementsWithDifferentSigns\bin\Debug\net8.0\PairsElementsWithDifferentSigns.exe
+C:\Users\ASUS\Desktop\AlgorithmsAndDataStructures\PairsElementsWithDifferentSigns\bin\Debug\net8.0\PairsElementsWithDifferentSigns.deps.json
+C:\Users\ASUS\Desktop\AlgorithmsAndDataStructures\PairsElementsWithDifferentSigns\bin\Debug\net8.0\PairsElementsWithDifferentSigns.runtimeconfig.json
+C:\Users\ASUS\Desktop\AlgorithmsAndDataStructures\PairsElementsWithDifferentSigns\bin\Debug\net8.0\PairsElementsWithDifferentSigns.dll
+C:\Users\ASUS\Desktop\AlgorithmsAndDataStructures\PairsElementsWithDifferentSigns\bin\Debug\net8.0\PairsElementsWithDifferentSigns.pdb
+C:\Users\ASUS\Desktop\AlgorithmsAndDataStructures\PairsElementsWithDifferentSigns\obj\Debug\net8.0\PairsElementsWithDifferentSigns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\AlgorithmsAndDataStructures\PairsElementsWithDifferentSigns\obj\Debug\net8.0\PairsElementsWithDifferentSigns.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\AlgorithmsAndDataStructures\PairsElementsWithDifferentSigns\obj\Debug\net8.0\PairsElementsWithDifferentSigns.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\AlgorithmsAndDataStructures\PairsElementsWithDifferentSigns\obj\Debug\net8.0\PairsElementsWithDifferentSigns.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\AlgorithmsAndDataStructures\PairsElementsWithDifferentSigns\obj\Debug\net8.0\PairsElementsWithDifferentSigns.dll
+C:\Users\ASUS\Desktop\AlgorithmsAndDataStructures\PairsElementsWithDifferentSigns\obj\Debug\net8.0\refint\PairsElementsWithDifferentSigns.dll
+C:\Users\ASUS\Desktop\AlgorithmsAndDataStructures\PairsElementsWithDifferentSigns\obj\Debug\net8.0\PairsElementsWithDifferentSigns.pdb
+C:\Users\ASUS\Desktop\AlgorithmsAndDataStructures\PairsElementsWithDifferentSigns\obj\Debug\net8.0\PairsElementsWithDifferentSigns.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\AlgorithmsAndDataStructures\PairsElementsWithDifferentSigns\obj\Debug\net8.0\ref\PairsElementsWithDifferentSigns.dll

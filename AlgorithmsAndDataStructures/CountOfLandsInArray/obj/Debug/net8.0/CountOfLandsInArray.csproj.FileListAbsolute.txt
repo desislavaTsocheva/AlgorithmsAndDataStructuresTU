@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\AlgorithmsAndDataStructures\CountOfLandsInArray\bin\Debug\net8.0\CountOfLandsInArray.exe
+C:\Users\ASUS\Desktop\AlgorithmsAndDataStructures\CountOfLandsInArray\bin\Debug\net8.0\CountOfLandsInArray.deps.json
+C:\Users\ASUS\Desktop\AlgorithmsAndDataStructures\CountOfLandsInArray\bin\Debug\net8.0\CountOfLandsInArray.runtimeconfig.json
+C:\Users\ASUS\Desktop\AlgorithmsAndDataStructures\CountOfLandsInArray\bin\Debug\net8.0\CountOfLandsInArray.dll
+C:\Users\ASUS\Desktop\AlgorithmsAndDataStructures\CountOfLandsInArray\bin\Debug\net8.0\CountOfLandsInArray.pdb
+C:\Users\ASUS\Desktop\AlgorithmsAndDataStructures\CountOfLandsInArray\obj\Debug\net8.0\CountOfLandsInArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\AlgorithmsAndDataStructures\CountOfLandsInArray\obj\Debug\net8.0\CountOfLandsInArray.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\AlgorithmsAndDataStructures\CountOfLandsInArray\obj\Debug\net8.0\CountOfLandsInArray.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\AlgorithmsAndDataStructures\CountOfLandsInArray\obj\Debug\net8.0\CountOfLandsInArray.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\AlgorithmsAndDataStructures\CountOfLandsInArray\obj\Debug\net8.0\CountOfLandsInArray.dll
+C:\Users\ASUS\Desktop\AlgorithmsAndDataStructures\CountOfLandsInArray\obj\Debug\net8.0\refint\CountOfLandsInArray.dll
+C:\Users\ASUS\Desktop\AlgorithmsAndDataStructures\CountOfLandsInArray\obj\Debug\net8.0\CountOfLandsInArray.pdb
+C:\Users\ASUS\Desktop\AlgorithmsAndDataStructures\CountOfLandsInArray\obj\Debug\net8.0\CountOfLandsInArray.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\AlgorithmsAndDataStructures\CountOfLandsInArray\obj\Debug\net8.0\ref\CountOfLandsInArray.dll
