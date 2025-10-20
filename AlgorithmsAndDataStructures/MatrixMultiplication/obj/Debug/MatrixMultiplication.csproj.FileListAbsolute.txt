@@ -1,0 +1,8 @@
+C:\Users\viole\OneDrive\Работен плот\MatrixMultiplication\MatrixMultiplication\bin\Debug\MatrixMultiplication.exe.config
+C:\Users\viole\OneDrive\Работен плот\MatrixMultiplication\MatrixMultiplication\bin\Debug\MatrixMultiplication.exe
+C:\Users\viole\OneDrive\Работен плот\MatrixMultiplication\MatrixMultiplication\bin\Debug\MatrixMultiplication.pdb
+C:\Users\viole\OneDrive\Работен плот\MatrixMultiplication\MatrixMultiplication\obj\Debug\MatrixMultiplication.csproj.AssemblyReference.cache
+C:\Users\viole\OneDrive\Работен плот\MatrixMultiplication\MatrixMultiplication\obj\Debug\MatrixMultiplication.csproj.CoreCompileInputs.cache
+C:\Users\viole\OneDrive\Работен плот\MatrixMultiplication\MatrixMultiplication\obj\Debug\MatrixMultiplication.exe
+C:\Users\viole\OneDrive\Работен плот\MatrixMultiplication\MatrixMultiplication\obj\Debug\MatrixMultiplication.pdb
+C:\Users\viole\OneDrive\Работен плот\MatrixMultiplication\MatrixMultiplication\obj\Debug\MatrixMultiplication.exe.config
