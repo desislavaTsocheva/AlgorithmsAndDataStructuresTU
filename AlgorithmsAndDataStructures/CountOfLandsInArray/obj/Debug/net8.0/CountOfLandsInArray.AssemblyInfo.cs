@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CountOfLandsInArray")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0dd82561387c6869040ddda607c6df7f198aa13b")]
 [assembly: System.Reflection.AssemblyProductAttribute("CountOfLandsInArray")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CountOfLandsInArray")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

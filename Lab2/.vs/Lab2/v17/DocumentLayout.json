@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\viole\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\AlgorithmsAndDataStructuresTU\\Lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E2C6F65-BBA3-4417-B18C-CE973C23FC4B}|CountLandsInArray\\CountLandsInArray.csproj|c:\\users\\viole\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\algorithmsanddatastructurestu\\lab2\\countlandsinarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E2C6F65-BBA3-4417-B18C-CE973C23FC4B}|CountLandsInArray\\CountLandsInArray.csproj|solutionrelative:countlandsinarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE956F04-5641-481F-9F87-55EDF529AF28}|MultPairsNumGreaterThan120\\MultPairsNumGreaterThan120.csproj|c:\\users\\viole\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\algorithmsanddatastructurestu\\lab2\\multpairsnumgreaterthan120\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE956F04-5641-481F-9F87-55EDF529AF28}|MultPairsNumGreaterThan120\\MultPairsNumGreaterThan120.csproj|solutionrelative:multpairsnumgreaterthan120\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3C33CA7-D268-4B9E-A83D-B19AEFB9DD4D}|SecondaryDiagonal\\SecondaryDiagonal.csproj|c:\\users\\viole\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\algorithmsanddatastructurestu\\lab2\\secondarydiagonal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3C33CA7-D268-4B9E-A83D-B19AEFB9DD4D}|SecondaryDiagonal\\SecondaryDiagonal.csproj|solutionrelative:secondarydiagonal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E48D47-E27A-406F-8A31-8E15425CC98E}|ArrayEx2\\ArrayEx2.csproj|c:\\users\\viole\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\algorithmsanddatastructurestu\\lab2\\arrayex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E48D47-E27A-406F-8A31-8E15425CC98E}|ArrayEx2\\ArrayEx2.csproj|solutionrelative:arrayex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDACD3D3-5CAC-4C3A-82BA-676D716F211E}|Lab2\\Lab2.csproj|c:\\users\\viole\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\algorithmsanddatastructurestu\\lab2\\lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDACD3D3-5CAC-4C3A-82BA-676D716F211E}|Lab2\\Lab2.csproj|solutionrelative:lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\viole\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\AlgorithmsAndDataStructuresTU\\Lab2\\CountLandsInArray\\Program.cs",
+              "RelativeDocumentMoniker": "CountLandsInArray\\Program.cs",
+              "ToolTip": "C:\\Users\\viole\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\AlgorithmsAndDataStructuresTU\\Lab2\\CountLandsInArray\\Program.cs",
+              "RelativeToolTip": "CountLandsInArray\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T16:28:56.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\viole\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\AlgorithmsAndDataStructuresTU\\Lab2\\MultPairsNumGreaterThan120\\Program.cs",
+              "RelativeDocumentMoniker": "MultPairsNumGreaterThan120\\Program.cs",
+              "ToolTip": "C:\\Users\\viole\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\AlgorithmsAndDataStructuresTU\\Lab2\\MultPairsNumGreaterThan120\\Program.cs",
+              "RelativeToolTip": "MultPairsNumGreaterThan120\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T16:28:11.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\viole\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\AlgorithmsAndDataStructuresTU\\Lab2\\SecondaryDiagonal\\Program.cs",
+              "RelativeDocumentMoniker": "SecondaryDiagonal\\Program.cs",
+              "ToolTip": "C:\\Users\\viole\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\AlgorithmsAndDataStructuresTU\\Lab2\\SecondaryDiagonal\\Program.cs",
+              "RelativeToolTip": "SecondaryDiagonal\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T16:19:24.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\viole\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\AlgorithmsAndDataStructuresTU\\Lab2\\ArrayEx2\\Program.cs",
+              "RelativeDocumentMoniker": "ArrayEx2\\Program.cs",
+              "ToolTip": "C:\\Users\\viole\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\AlgorithmsAndDataStructuresTU\\Lab2\\ArrayEx2\\Program.cs",
+              "RelativeToolTip": "ArrayEx2\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T15:56:36.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\viole\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\AlgorithmsAndDataStructuresTU\\Lab2\\Lab2\\Program.cs",
+              "RelativeDocumentMoniker": "Lab2\\Program.cs",
+              "ToolTip": "C:\\Users\\viole\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\AlgorithmsAndDataStructuresTU\\Lab2\\Lab2\\Program.cs",
+              "RelativeToolTip": "Lab2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T15:55:00.039Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MultiplicationPairsWithSumGreaterThanNumber")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0dd82561387c6869040ddda607c6df7f198aa13b")]
 [assembly: System.Reflection.AssemblyProductAttribute("MultiplicationPairsWithSumGreaterThanNumber")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MultiplicationPairsWithSumGreaterThanNumber")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
