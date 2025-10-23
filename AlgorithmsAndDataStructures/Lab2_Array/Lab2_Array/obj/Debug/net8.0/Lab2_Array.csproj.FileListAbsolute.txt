@@ -1,0 +1,15 @@
+C:\Users\viole\OneDrive\Работен плот\AlgorithmsAndDataStructuresTU\Lab2_Array\Lab2_Array\bin\Debug\net8.0\Lab2_Array.exe
+C:\Users\viole\OneDrive\Работен плот\AlgorithmsAndDataStructuresTU\Lab2_Array\Lab2_Array\bin\Debug\net8.0\Lab2_Array.deps.json
+C:\Users\viole\OneDrive\Работен плот\AlgorithmsAndDataStructuresTU\Lab2_Array\Lab2_Array\bin\Debug\net8.0\Lab2_Array.runtimeconfig.json
+C:\Users\viole\OneDrive\Работен плот\AlgorithmsAndDataStructuresTU\Lab2_Array\Lab2_Array\bin\Debug\net8.0\Lab2_Array.dll
+C:\Users\viole\OneDrive\Работен плот\AlgorithmsAndDataStructuresTU\Lab2_Array\Lab2_Array\bin\Debug\net8.0\Lab2_Array.pdb
+C:\Users\viole\OneDrive\Работен плот\AlgorithmsAndDataStructuresTU\Lab2_Array\Lab2_Array\obj\Debug\net8.0\Lab2_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viole\OneDrive\Работен плот\AlgorithmsAndDataStructuresTU\Lab2_Array\Lab2_Array\obj\Debug\net8.0\Lab2_Array.AssemblyInfoInputs.cache
+C:\Users\viole\OneDrive\Работен плот\AlgorithmsAndDataStructuresTU\Lab2_Array\Lab2_Array\obj\Debug\net8.0\Lab2_Array.AssemblyInfo.cs
+C:\Users\viole\OneDrive\Работен плот\AlgorithmsAndDataStructuresTU\Lab2_Array\Lab2_Array\obj\Debug\net8.0\Lab2_Array.csproj.CoreCompileInputs.cache
+C:\Users\viole\OneDrive\Работен плот\AlgorithmsAndDataStructuresTU\Lab2_Array\Lab2_Array\obj\Debug\net8.0\Lab2_Array.sourcelink.json
+C:\Users\viole\OneDrive\Работен плот\AlgorithmsAndDataStructuresTU\Lab2_Array\Lab2_Array\obj\Debug\net8.0\Lab2_Array.dll
+C:\Users\viole\OneDrive\Работен плот\AlgorithmsAndDataStructuresTU\Lab2_Array\Lab2_Array\obj\Debug\net8.0\refint\Lab2_Array.dll
+C:\Users\viole\OneDrive\Работен плот\AlgorithmsAndDataStructuresTU\Lab2_Array\Lab2_Array\obj\Debug\net8.0\Lab2_Array.pdb
+C:\Users\viole\OneDrive\Работен плот\AlgorithmsAndDataStructuresTU\Lab2_Array\Lab2_Array\obj\Debug\net8.0\Lab2_Array.genruntimeconfig.cache
+C:\Users\viole\OneDrive\Работен плот\AlgorithmsAndDataStructuresTU\Lab2_Array\Lab2_Array\obj\Debug\net8.0\ref\Lab2_Array.dll
