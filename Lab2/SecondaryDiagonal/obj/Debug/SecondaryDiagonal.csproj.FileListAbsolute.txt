@@ -1,8 +1,0 @@
-C:\Users\viole\OneDrive\Работен плот\AlgorithmsAndDataStructuresTU\Lab2\SecondaryDiagonal\bin\Debug\SecondaryDiagonal.exe.config
-C:\Users\viole\OneDrive\Работен плот\AlgorithmsAndDataStructuresTU\Lab2\SecondaryDiagonal\bin\Debug\SecondaryDiagonal.exe
-C:\Users\viole\OneDrive\Работен плот\AlgorithmsAndDataStructuresTU\Lab2\SecondaryDiagonal\bin\Debug\SecondaryDiagonal.pdb
-C:\Users\viole\OneDrive\Работен плот\AlgorithmsAndDataStructuresTU\Lab2\SecondaryDiagonal\obj\Debug\SecondaryDiagonal.csproj.AssemblyReference.cache
-C:\Users\viole\OneDrive\Работен плот\AlgorithmsAndDataStructuresTU\Lab2\SecondaryDiagonal\obj\Debug\SecondaryDiagonal.csproj.CoreCompileInputs.cache
-C:\Users\viole\OneDrive\Работен плот\AlgorithmsAndDataStructuresTU\Lab2\SecondaryDiagonal\obj\Debug\SecondaryDiagonal.exe
-C:\Users\viole\OneDrive\Работен плот\AlgorithmsAndDataStructuresTU\Lab2\SecondaryDiagonal\obj\Debug\SecondaryDiagonal.pdb
-C:\Users\viole\OneDrive\Работен плот\AlgorithmsAndDataStructuresTU\Lab2\SecondaryDiagonal\obj\Debug\SecondaryDiagonal.exe.config
