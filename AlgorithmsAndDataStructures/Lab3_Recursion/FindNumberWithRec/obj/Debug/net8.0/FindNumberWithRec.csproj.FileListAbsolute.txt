@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\ConvertNumberToBinary\FindNumberWithRec\bin\Debug\net8.0\FindNumberWithRec.exe
+C:\Users\ASUS\Desktop\ConvertNumberToBinary\FindNumberWithRec\bin\Debug\net8.0\FindNumberWithRec.deps.json
+C:\Users\ASUS\Desktop\ConvertNumberToBinary\FindNumberWithRec\bin\Debug\net8.0\FindNumberWithRec.runtimeconfig.json
+C:\Users\ASUS\Desktop\ConvertNumberToBinary\FindNumberWithRec\bin\Debug\net8.0\FindNumberWithRec.dll
+C:\Users\ASUS\Desktop\ConvertNumberToBinary\FindNumberWithRec\bin\Debug\net8.0\FindNumberWithRec.pdb
+C:\Users\ASUS\Desktop\ConvertNumberToBinary\FindNumberWithRec\obj\Debug\net8.0\FindNumberWithRec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ConvertNumberToBinary\FindNumberWithRec\obj\Debug\net8.0\FindNumberWithRec.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ConvertNumberToBinary\FindNumberWithRec\obj\Debug\net8.0\FindNumberWithRec.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ConvertNumberToBinary\FindNumberWithRec\obj\Debug\net8.0\FindNumberWithRec.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ConvertNumberToBinary\FindNumberWithRec\obj\Debug\net8.0\FindNumberWithRec.dll
+C:\Users\ASUS\Desktop\ConvertNumberToBinary\FindNumberWithRec\obj\Debug\net8.0\refint\FindNumberWithRec.dll
+C:\Users\ASUS\Desktop\ConvertNumberToBinary\FindNumberWithRec\obj\Debug\net8.0\FindNumberWithRec.pdb
+C:\Users\ASUS\Desktop\ConvertNumberToBinary\FindNumberWithRec\obj\Debug\net8.0\FindNumberWithRec.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ConvertNumberToBinary\FindNumberWithRec\obj\Debug\net8.0\ref\FindNumberWithRec.dll

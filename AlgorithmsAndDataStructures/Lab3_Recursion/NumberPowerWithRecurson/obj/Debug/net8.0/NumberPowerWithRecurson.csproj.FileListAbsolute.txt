@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\ConvertNumberToBinary\NumberPowerWithRecurson\bin\Debug\net8.0\NumberPowerWithRecurson.exe
+C:\Users\ASUS\Desktop\ConvertNumberToBinary\NumberPowerWithRecurson\bin\Debug\net8.0\NumberPowerWithRecurson.deps.json
+C:\Users\ASUS\Desktop\ConvertNumberToBinary\NumberPowerWithRecurson\bin\Debug\net8.0\NumberPowerWithRecurson.runtimeconfig.json
+C:\Users\ASUS\Desktop\ConvertNumberToBinary\NumberPowerWithRecurson\bin\Debug\net8.0\NumberPowerWithRecurson.dll
+C:\Users\ASUS\Desktop\ConvertNumberToBinary\NumberPowerWithRecurson\bin\Debug\net8.0\NumberPowerWithRecurson.pdb
+C:\Users\ASUS\Desktop\ConvertNumberToBinary\NumberPowerWithRecurson\obj\Debug\net8.0\NumberPowerWithRecurson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ConvertNumberToBinary\NumberPowerWithRecurson\obj\Debug\net8.0\NumberPowerWithRecurson.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ConvertNumberToBinary\NumberPowerWithRecurson\obj\Debug\net8.0\NumberPowerWithRecurson.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ConvertNumberToBinary\NumberPowerWithRecurson\obj\Debug\net8.0\NumberPowerWithRecurson.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ConvertNumberToBinary\NumberPowerWithRecurson\obj\Debug\net8.0\NumberPowerWithRecurson.dll
+C:\Users\ASUS\Desktop\ConvertNumberToBinary\NumberPowerWithRecurson\obj\Debug\net8.0\refint\NumberPowerWithRecurson.dll
+C:\Users\ASUS\Desktop\ConvertNumberToBinary\NumberPowerWithRecurson\obj\Debug\net8.0\NumberPowerWithRecurson.pdb
+C:\Users\ASUS\Desktop\ConvertNumberToBinary\NumberPowerWithRecurson\obj\Debug\net8.0\NumberPowerWithRecurson.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ConvertNumberToBinary\NumberPowerWithRecurson\obj\Debug\net8.0\ref\NumberPowerWithRecurson.dll

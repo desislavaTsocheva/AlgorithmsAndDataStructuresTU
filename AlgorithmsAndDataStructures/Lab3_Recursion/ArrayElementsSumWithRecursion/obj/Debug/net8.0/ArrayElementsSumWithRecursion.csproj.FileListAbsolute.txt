@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\ConvertNumberToBinary\ArrayElementsSumWithRecursion\bin\Debug\net8.0\ArrayElementsSumWithRecursion.exe
+C:\Users\ASUS\Desktop\ConvertNumberToBinary\ArrayElementsSumWithRecursion\bin\Debug\net8.0\ArrayElementsSumWithRecursion.deps.json
+C:\Users\ASUS\Desktop\ConvertNumberToBinary\ArrayElementsSumWithRecursion\bin\Debug\net8.0\ArrayElementsSumWithRecursion.runtimeconfig.json
+C:\Users\ASUS\Desktop\ConvertNumberToBinary\ArrayElementsSumWithRecursion\bin\Debug\net8.0\ArrayElementsSumWithRecursion.dll
+C:\Users\ASUS\Desktop\ConvertNumberToBinary\ArrayElementsSumWithRecursion\bin\Debug\net8.0\ArrayElementsSumWithRecursion.pdb
+C:\Users\ASUS\Desktop\ConvertNumberToBinary\ArrayElementsSumWithRecursion\obj\Debug\net8.0\ArrayElementsSumWithRecursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ConvertNumberToBinary\ArrayElementsSumWithRecursion\obj\Debug\net8.0\ArrayElementsSumWithRecursion.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ConvertNumberToBinary\ArrayElementsSumWithRecursion\obj\Debug\net8.0\ArrayElementsSumWithRecursion.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ConvertNumberToBinary\ArrayElementsSumWithRecursion\obj\Debug\net8.0\ArrayElementsSumWithRecursion.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ConvertNumberToBinary\ArrayElementsSumWithRecursion\obj\Debug\net8.0\ArrayElementsSumWithRecursion.dll
+C:\Users\ASUS\Desktop\ConvertNumberToBinary\ArrayElementsSumWithRecursion\obj\Debug\net8.0\refint\ArrayElementsSumWithRecursion.dll
+C:\Users\ASUS\Desktop\ConvertNumberToBinary\ArrayElementsSumWithRecursion\obj\Debug\net8.0\ArrayElementsSumWithRecursion.pdb
+C:\Users\ASUS\Desktop\ConvertNumberToBinary\ArrayElementsSumWithRecursion\obj\Debug\net8.0\ArrayElementsSumWithRecursion.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ConvertNumberToBinary\ArrayElementsSumWithRecursion\obj\Debug\net8.0\ref\ArrayElementsSumWithRecursion.dll

@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\ConvertNumberToBinary\ConvertNumberToBinary\bin\Debug\net8.0\ConvertNumberToBinary.exe
+C:\Users\ASUS\Desktop\ConvertNumberToBinary\ConvertNumberToBinary\bin\Debug\net8.0\ConvertNumberToBinary.deps.json
+C:\Users\ASUS\Desktop\ConvertNumberToBinary\ConvertNumberToBinary\bin\Debug\net8.0\ConvertNumberToBinary.runtimeconfig.json
+C:\Users\ASUS\Desktop\ConvertNumberToBinary\ConvertNumberToBinary\bin\Debug\net8.0\ConvertNumberToBinary.dll
+C:\Users\ASUS\Desktop\ConvertNumberToBinary\ConvertNumberToBinary\bin\Debug\net8.0\ConvertNumberToBinary.pdb
+C:\Users\ASUS\Desktop\ConvertNumberToBinary\ConvertNumberToBinary\obj\Debug\net8.0\ConvertNumberToBinary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\ConvertNumberToBinary\ConvertNumberToBinary\obj\Debug\net8.0\ConvertNumberToBinary.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\ConvertNumberToBinary\ConvertNumberToBinary\obj\Debug\net8.0\ConvertNumberToBinary.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\ConvertNumberToBinary\ConvertNumberToBinary\obj\Debug\net8.0\ConvertNumberToBinary.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\ConvertNumberToBinary\ConvertNumberToBinary\obj\Debug\net8.0\ConvertNumberToBinary.dll
+C:\Users\ASUS\Desktop\ConvertNumberToBinary\ConvertNumberToBinary\obj\Debug\net8.0\refint\ConvertNumberToBinary.dll
+C:\Users\ASUS\Desktop\ConvertNumberToBinary\ConvertNumberToBinary\obj\Debug\net8.0\ConvertNumberToBinary.pdb
+C:\Users\ASUS\Desktop\ConvertNumberToBinary\ConvertNumberToBinary\obj\Debug\net8.0\ConvertNumberToBinary.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\ConvertNumberToBinary\ConvertNumberToBinary\obj\Debug\net8.0\ref\ConvertNumberToBinary.dll
