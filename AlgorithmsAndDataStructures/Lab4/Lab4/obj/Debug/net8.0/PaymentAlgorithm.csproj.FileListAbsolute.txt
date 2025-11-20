@@ -1,0 +1,14 @@
+C:\Users\viole\OneDrive\Работен плот\AlgorithmsAndDataStructuresTU\Lab4\Lab4\obj\Debug\net8.0\PaymentAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viole\OneDrive\Работен плот\AlgorithmsAndDataStructuresTU\Lab4\Lab4\obj\Debug\net8.0\PaymentAlgorithm.AssemblyInfoInputs.cache
+C:\Users\viole\OneDrive\Работен плот\AlgorithmsAndDataStructuresTU\Lab4\Lab4\obj\Debug\net8.0\PaymentAlgorithm.AssemblyInfo.cs
+C:\Users\viole\OneDrive\Работен плот\AlgorithmsAndDataStructuresTU\Lab4\Lab4\obj\Debug\net8.0\PaymentAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\viole\OneDrive\Работен плот\AlgorithmsAndDataStructuresTU\Lab4\Lab4\bin\Debug\net8.0\PaymentAlgorithm.exe
+C:\Users\viole\OneDrive\Работен плот\AlgorithmsAndDataStructuresTU\Lab4\Lab4\bin\Debug\net8.0\PaymentAlgorithm.deps.json
+C:\Users\viole\OneDrive\Работен плот\AlgorithmsAndDataStructuresTU\Lab4\Lab4\bin\Debug\net8.0\PaymentAlgorithm.runtimeconfig.json
+C:\Users\viole\OneDrive\Работен плот\AlgorithmsAndDataStructuresTU\Lab4\Lab4\bin\Debug\net8.0\PaymentAlgorithm.dll
+C:\Users\viole\OneDrive\Работен плот\AlgorithmsAndDataStructuresTU\Lab4\Lab4\bin\Debug\net8.0\PaymentAlgorithm.pdb
+C:\Users\viole\OneDrive\Работен плот\AlgorithmsAndDataStructuresTU\Lab4\Lab4\obj\Debug\net8.0\PaymentAlgorithm.dll
+C:\Users\viole\OneDrive\Работен плот\AlgorithmsAndDataStructuresTU\Lab4\Lab4\obj\Debug\net8.0\refint\PaymentAlgorithm.dll
+C:\Users\viole\OneDrive\Работен плот\AlgorithmsAndDataStructuresTU\Lab4\Lab4\obj\Debug\net8.0\PaymentAlgorithm.pdb
+C:\Users\viole\OneDrive\Работен плот\AlgorithmsAndDataStructuresTU\Lab4\Lab4\obj\Debug\net8.0\PaymentAlgorithm.genruntimeconfig.cache
+C:\Users\viole\OneDrive\Работен плот\AlgorithmsAndDataStructuresTU\Lab4\Lab4\obj\Debug\net8.0\ref\PaymentAlgorithm.dll

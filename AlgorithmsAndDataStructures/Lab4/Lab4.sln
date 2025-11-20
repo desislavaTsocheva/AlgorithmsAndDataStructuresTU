@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentAlgorithm", "Lab4\PaymentAlgorithm.csproj", "{7859F342-DCD2-49A4-B789-D8B25FFD0003}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsPalindrom", "IsPalindrom\IsPalindrom.csproj", "{23D0CE58-A9A9-4548-99DE-EC110F6CD5EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7859F342-DCD2-49A4-B789-D8B25FFD0003}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7859F342-DCD2-49A4-B789-D8B25FFD0003}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7859F342-DCD2-49A4-B789-D8B25FFD0003}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7859F342-DCD2-49A4-B789-D8B25FFD0003}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23D0CE58-A9A9-4548-99DE-EC110F6CD5EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23D0CE58-A9A9-4548-99DE-EC110F6CD5EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23D0CE58-A9A9-4548-99DE-EC110F6CD5EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23D0CE58-A9A9-4548-99DE-EC110F6CD5EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {965E5DF0-F39A-40BE-9337-FCD8C7B063F9}
+	EndGlobalSection
+EndGlobal
