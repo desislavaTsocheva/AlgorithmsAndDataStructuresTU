@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\viole\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SAA_Exam_Tasks\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1A78E6AA-3D29-4922-A796-AEADCC810722}|Task6\\Task6.csproj|c:\\users\\viole\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\saa_exam_tasks\\task6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A78E6AA-3D29-4922-A796-AEADCC810722}|Task6\\Task6.csproj|solutionrelative:task6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C5FAE36-4C1F-48BC-823D-7FBDB7A89430}|Task4\\Task4.csproj|c:\\users\\viole\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\saa_exam_tasks\\task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C5FAE36-4C1F-48BC-823D-7FBDB7A89430}|Task4\\Task4.csproj|solutionrelative:task4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2264357C-F95C-47D1-AA0A-BC54ABEE2059}|Task3\\Task3.csproj|c:\\users\\viole\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\saa_exam_tasks\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2264357C-F95C-47D1-AA0A-BC54ABEE2059}|Task3\\Task3.csproj|solutionrelative:task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF5ABFB2-2408-4EA1-B398-6F912B03D2CA}|SAA_Exam_Tasks\\SAA_Exam_Tasks.csproj|c:\\users\\viole\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\saa_exam_tasks\\saa_exam_tasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF5ABFB2-2408-4EA1-B398-6F912B03D2CA}|SAA_Exam_Tasks\\SAA_Exam_Tasks.csproj|solutionrelative:saa_exam_tasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B35607C-369F-41B2-BCE9-EE3B447A9BA2}|Task5\\Task5.csproj|c:\\users\\viole\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\saa_exam_tasks\\task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B35607C-369F-41B2-BCE9-EE3B447A9BA2}|Task5\\Task5.csproj|solutionrelative:task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C67964C5-1E97-45FF-9745-0755DC086DAC}|Task2\\Task2.csproj|c:\\users\\viole\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\saa_exam_tasks\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C67964C5-1E97-45FF-9745-0755DC086DAC}|Task2\\Task2.csproj|solutionrelative:task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF5ABFB2-2408-4EA1-B398-6F912B03D2CA}|SAA_Exam_Tasks\\Task1.csproj|c:\\users\\viole\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\saa_exam_tasks\\saa_exam_tasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF5ABFB2-2408-4EA1-B398-6F912B03D2CA}|SAA_Exam_Tasks\\Task1.csproj|solutionrelative:saa_exam_tasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,18 +40,57 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\viole\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SAA_Exam_Tasks\\Task6\\Program.cs",
+              "RelativeDocumentMoniker": "Task6\\Program.cs",
+              "ToolTip": "C:\\Users\\viole\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SAA_Exam_Tasks\\Task6\\Program.cs",
+              "RelativeToolTip": "Task6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T21:33:27.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\viole\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SAA_Exam_Tasks\\Task5\\Program.cs",
+              "RelativeDocumentMoniker": "Task5\\Program.cs",
+              "ToolTip": "C:\\Users\\viole\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SAA_Exam_Tasks\\Task5\\Program.cs",
+              "RelativeToolTip": "Task5\\Program.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAcwDQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T21:24:53.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\viole\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SAA_Exam_Tasks\\Task4\\Program.cs",
+              "RelativeDocumentMoniker": "Task4\\Program.cs",
+              "ToolTip": "C:\\Users\\viole\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SAA_Exam_Tasks\\Task4\\Program.cs",
+              "RelativeToolTip": "Task4\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAcwDEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T21:30:50.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\viole\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SAA_Exam_Tasks\\Task3\\Program.cs",
               "RelativeDocumentMoniker": "Task3\\Program.cs",
               "ToolTip": "C:\\Users\\viole\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SAA_Exam_Tasks\\Task3\\Program.cs",
               "RelativeToolTip": "Task3\\Program.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAcwDQAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAcwDMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-01T21:14:51.538Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\viole\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SAA_Exam_Tasks\\Task2\\Program.cs",
               "RelativeDocumentMoniker": "Task2\\Program.cs",
@@ -47,12 +98,11 @@
               "RelativeToolTip": "Task2\\Program.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAAwBEAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-01T20:41:16.027Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-01T20:41:16.027Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\viole\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SAA_Exam_Tasks\\SAA_Exam_Tasks\\Program.cs",
               "RelativeDocumentMoniker": "SAA_Exam_Tasks\\Program.cs",
@@ -60,8 +110,7 @@
               "RelativeToolTip": "SAA_Exam_Tasks\\Program.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAQwBQAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-01T19:46:32.891Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-01T19:46:32.891Z"
             }
           ]
         }

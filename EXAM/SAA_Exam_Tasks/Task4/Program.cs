@@ -28,13 +28,37 @@ public class Program
             Console.WriteLine();
         }
 
-        for(int i= 0; i < row; i++)
+        float[] max_el_col=new float[col];
+        for(int i= 0; i < col; i++)
         {
-            for(int j = 0;j < col; j++)
+            float max = d[0,i];
+            for(int j = 1;j < col; j++)
             {
-                
+                if (d[i, j] > max)
+                {
+                    max = d[j, i];
+                }
+            }
+            max_el_col[i] = max;
+        }
+
+        Console.WriteLine("MAX BY COL");
+        for (int i = 0;i < row; i++)
+        {
+            Console.WriteLine(max_el_col[i]);
+        }
+        Console.WriteLine();
+
+        float minimax = max_el_col[0];
+        for (int i = 1; i < row; i++)
+        {
+            if (max_el_col[i] < minimax)
+            {
+                minimax=max_el_col[i];
             }
         }
+
+        Console.WriteLine("MINIMAX: "+minimax);
 
     }
 }
