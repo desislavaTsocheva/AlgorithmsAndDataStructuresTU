@@ -1,0 +1,14 @@
+C:\Users\viole\OneDrive\Работен плот\SAA_Exam_Tasks\Task3.3\bin\Debug\net8.0\Task3.3.exe
+C:\Users\viole\OneDrive\Работен плот\SAA_Exam_Tasks\Task3.3\bin\Debug\net8.0\Task3.3.deps.json
+C:\Users\viole\OneDrive\Работен плот\SAA_Exam_Tasks\Task3.3\bin\Debug\net8.0\Task3.3.runtimeconfig.json
+C:\Users\viole\OneDrive\Работен плот\SAA_Exam_Tasks\Task3.3\bin\Debug\net8.0\Task3.3.dll
+C:\Users\viole\OneDrive\Работен плот\SAA_Exam_Tasks\Task3.3\bin\Debug\net8.0\Task3.3.pdb
+C:\Users\viole\OneDrive\Работен плот\SAA_Exam_Tasks\Task3.3\obj\Debug\net8.0\Task3.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viole\OneDrive\Работен плот\SAA_Exam_Tasks\Task3.3\obj\Debug\net8.0\Task3.3.AssemblyInfoInputs.cache
+C:\Users\viole\OneDrive\Работен плот\SAA_Exam_Tasks\Task3.3\obj\Debug\net8.0\Task3.3.AssemblyInfo.cs
+C:\Users\viole\OneDrive\Работен плот\SAA_Exam_Tasks\Task3.3\obj\Debug\net8.0\Task3.3.csproj.CoreCompileInputs.cache
+C:\Users\viole\OneDrive\Работен плот\SAA_Exam_Tasks\Task3.3\obj\Debug\net8.0\Task3.3.dll
+C:\Users\viole\OneDrive\Работен плот\SAA_Exam_Tasks\Task3.3\obj\Debug\net8.0\refint\Task3.3.dll
+C:\Users\viole\OneDrive\Работен плот\SAA_Exam_Tasks\Task3.3\obj\Debug\net8.0\Task3.3.pdb
+C:\Users\viole\OneDrive\Работен плот\SAA_Exam_Tasks\Task3.3\obj\Debug\net8.0\Task3.3.genruntimeconfig.cache
+C:\Users\viole\OneDrive\Работен плот\SAA_Exam_Tasks\Task3.3\obj\Debug\net8.0\ref\Task3.3.dll
