@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MatrixTask7/1.0.0": {
+        "runtime": {
+          "MatrixTask7.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MatrixTask7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

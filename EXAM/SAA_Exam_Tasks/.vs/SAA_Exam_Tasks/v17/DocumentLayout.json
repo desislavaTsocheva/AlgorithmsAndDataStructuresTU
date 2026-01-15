@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\viole\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SAA_Exam_Tasks\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E2B6C8D4-4F69-4979-AE8D-CBB69DF2F145}|Task6.6\\Task6.6.csproj|c:\\users\\viole\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\saa_exam_tasks\\task6.6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2B6C8D4-4F69-4979-AE8D-CBB69DF2F145}|Task6.6\\Task6.6.csproj|solutionrelative:task6.6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EED7F421-9655-4FC2-AD34-AD4475484437}|MatrixTask4\\MatrixTask4.csproj|c:\\users\\viole\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\saa_exam_tasks\\matrixtask4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EED7F421-9655-4FC2-AD34-AD4475484437}|MatrixTask4\\MatrixTask4.csproj|solutionrelative:matrixtask4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59B4F260-AC26-48E9-9931-C1F6BD2ED0C3}|MatrixTask2\\MatrixTask2.csproj|c:\\users\\viole\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\saa_exam_tasks\\matrixtask2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59B4F260-AC26-48E9-9931-C1F6BD2ED0C3}|MatrixTask2\\MatrixTask2.csproj|solutionrelative:matrixtask2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3B3EEC6-07F0-4272-897C-E8BC180A45AA}|MatrixTask3\\MatrixTask3.csproj|c:\\users\\viole\\onedrive\\\u0440\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\saa_exam_tasks\\matrixtask3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3B3EEC6-07F0-4272-897C-E8BC180A45AA}|MatrixTask3\\MatrixTask3.csproj|solutionrelative:matrixtask3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +28,39 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\viole\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SAA_Exam_Tasks\\Task6.6\\Program.cs",
-              "RelativeDocumentMoniker": "Task6.6\\Program.cs",
-              "ToolTip": "C:\\Users\\viole\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SAA_Exam_Tasks\\Task6.6\\Program.cs",
-              "RelativeToolTip": "Task6.6\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAhAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\viole\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SAA_Exam_Tasks\\MatrixTask4\\Program.cs",
+              "RelativeDocumentMoniker": "MatrixTask4\\Program.cs",
+              "ToolTip": "C:\\Users\\viole\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SAA_Exam_Tasks\\MatrixTask4\\Program.cs",
+              "RelativeToolTip": "MatrixTask4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-10T20:10:30.878Z",
+              "WhenOpened": "2026-01-15T18:00:19.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\viole\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SAA_Exam_Tasks\\MatrixTask3\\Program.cs",
+              "RelativeDocumentMoniker": "MatrixTask3\\Program.cs",
+              "ToolTip": "C:\\Users\\viole\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SAA_Exam_Tasks\\MatrixTask3\\Program.cs",
+              "RelativeToolTip": "MatrixTask3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T17:58:10.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\viole\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SAA_Exam_Tasks\\MatrixTask2\\Program.cs",
+              "RelativeDocumentMoniker": "MatrixTask2\\Program.cs",
+              "ToolTip": "C:\\Users\\viole\\OneDrive\\\u0420\u0430\u0431\u043E\u0442\u0435\u043D \u043F\u043B\u043E\u0442\\SAA_Exam_Tasks\\MatrixTask2\\Program.cs",
+              "RelativeToolTip": "MatrixTask2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T17:44:33.13Z",
               "EditorCaption": ""
             }
           ]

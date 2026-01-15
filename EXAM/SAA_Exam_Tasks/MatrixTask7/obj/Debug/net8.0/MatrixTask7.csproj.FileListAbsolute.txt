@@ -1,0 +1,14 @@
+C:\Users\viole\OneDrive\Работен плот\SAA_Exam_Tasks\MatrixTask7\bin\Debug\net8.0\MatrixTask7.exe
+C:\Users\viole\OneDrive\Работен плот\SAA_Exam_Tasks\MatrixTask7\bin\Debug\net8.0\MatrixTask7.deps.json
+C:\Users\viole\OneDrive\Работен плот\SAA_Exam_Tasks\MatrixTask7\bin\Debug\net8.0\MatrixTask7.runtimeconfig.json
+C:\Users\viole\OneDrive\Работен плот\SAA_Exam_Tasks\MatrixTask7\bin\Debug\net8.0\MatrixTask7.dll
+C:\Users\viole\OneDrive\Работен плот\SAA_Exam_Tasks\MatrixTask7\bin\Debug\net8.0\MatrixTask7.pdb
+C:\Users\viole\OneDrive\Работен плот\SAA_Exam_Tasks\MatrixTask7\obj\Debug\net8.0\MatrixTask7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viole\OneDrive\Работен плот\SAA_Exam_Tasks\MatrixTask7\obj\Debug\net8.0\MatrixTask7.AssemblyInfoInputs.cache
+C:\Users\viole\OneDrive\Работен плот\SAA_Exam_Tasks\MatrixTask7\obj\Debug\net8.0\MatrixTask7.AssemblyInfo.cs
+C:\Users\viole\OneDrive\Работен плот\SAA_Exam_Tasks\MatrixTask7\obj\Debug\net8.0\MatrixTask7.csproj.CoreCompileInputs.cache
+C:\Users\viole\OneDrive\Работен плот\SAA_Exam_Tasks\MatrixTask7\obj\Debug\net8.0\MatrixTask7.dll
+C:\Users\viole\OneDrive\Работен плот\SAA_Exam_Tasks\MatrixTask7\obj\Debug\net8.0\refint\MatrixTask7.dll
+C:\Users\viole\OneDrive\Работен плот\SAA_Exam_Tasks\MatrixTask7\obj\Debug\net8.0\MatrixTask7.pdb
+C:\Users\viole\OneDrive\Работен плот\SAA_Exam_Tasks\MatrixTask7\obj\Debug\net8.0\MatrixTask7.genruntimeconfig.cache
+C:\Users\viole\OneDrive\Работен плот\SAA_Exam_Tasks\MatrixTask7\obj\Debug\net8.0\ref\MatrixTask7.dll

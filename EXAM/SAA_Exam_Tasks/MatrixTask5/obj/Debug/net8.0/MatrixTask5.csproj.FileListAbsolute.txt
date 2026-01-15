@@ -1,0 +1,14 @@
+C:\Users\viole\OneDrive\Работен плот\SAA_Exam_Tasks\MatrixTask5\obj\Debug\net8.0\MatrixTask5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viole\OneDrive\Работен плот\SAA_Exam_Tasks\MatrixTask5\obj\Debug\net8.0\MatrixTask5.AssemblyInfoInputs.cache
+C:\Users\viole\OneDrive\Работен плот\SAA_Exam_Tasks\MatrixTask5\obj\Debug\net8.0\MatrixTask5.AssemblyInfo.cs
+C:\Users\viole\OneDrive\Работен плот\SAA_Exam_Tasks\MatrixTask5\obj\Debug\net8.0\MatrixTask5.csproj.CoreCompileInputs.cache
+C:\Users\viole\OneDrive\Работен плот\SAA_Exam_Tasks\MatrixTask5\bin\Debug\net8.0\MatrixTask5.exe
+C:\Users\viole\OneDrive\Работен плот\SAA_Exam_Tasks\MatrixTask5\bin\Debug\net8.0\MatrixTask5.deps.json
+C:\Users\viole\OneDrive\Работен плот\SAA_Exam_Tasks\MatrixTask5\bin\Debug\net8.0\MatrixTask5.runtimeconfig.json
+C:\Users\viole\OneDrive\Работен плот\SAA_Exam_Tasks\MatrixTask5\bin\Debug\net8.0\MatrixTask5.dll
+C:\Users\viole\OneDrive\Работен плот\SAA_Exam_Tasks\MatrixTask5\bin\Debug\net8.0\MatrixTask5.pdb
+C:\Users\viole\OneDrive\Работен плот\SAA_Exam_Tasks\MatrixTask5\obj\Debug\net8.0\MatrixTask5.dll
+C:\Users\viole\OneDrive\Работен плот\SAA_Exam_Tasks\MatrixTask5\obj\Debug\net8.0\refint\MatrixTask5.dll
+C:\Users\viole\OneDrive\Работен плот\SAA_Exam_Tasks\MatrixTask5\obj\Debug\net8.0\MatrixTask5.pdb
+C:\Users\viole\OneDrive\Работен плот\SAA_Exam_Tasks\MatrixTask5\obj\Debug\net8.0\MatrixTask5.genruntimeconfig.cache
+C:\Users\viole\OneDrive\Работен плот\SAA_Exam_Tasks\MatrixTask5\obj\Debug\net8.0\ref\MatrixTask5.dll
