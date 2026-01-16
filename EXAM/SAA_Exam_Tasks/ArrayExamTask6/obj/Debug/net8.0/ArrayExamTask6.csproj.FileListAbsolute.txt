@@ -1,0 +1,14 @@
+C:\Users\viole\OneDrive\Работен плот\SAA_Exam_Tasks\ArrayExamTask6\bin\Debug\net8.0\ArrayExamTask6.exe
+C:\Users\viole\OneDrive\Работен плот\SAA_Exam_Tasks\ArrayExamTask6\bin\Debug\net8.0\ArrayExamTask6.deps.json
+C:\Users\viole\OneDrive\Работен плот\SAA_Exam_Tasks\ArrayExamTask6\bin\Debug\net8.0\ArrayExamTask6.runtimeconfig.json
+C:\Users\viole\OneDrive\Работен плот\SAA_Exam_Tasks\ArrayExamTask6\bin\Debug\net8.0\ArrayExamTask6.dll
+C:\Users\viole\OneDrive\Работен плот\SAA_Exam_Tasks\ArrayExamTask6\bin\Debug\net8.0\ArrayExamTask6.pdb
+C:\Users\viole\OneDrive\Работен плот\SAA_Exam_Tasks\ArrayExamTask6\obj\Debug\net8.0\ArrayExamTask6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viole\OneDrive\Работен плот\SAA_Exam_Tasks\ArrayExamTask6\obj\Debug\net8.0\ArrayExamTask6.AssemblyInfoInputs.cache
+C:\Users\viole\OneDrive\Работен плот\SAA_Exam_Tasks\ArrayExamTask6\obj\Debug\net8.0\ArrayExamTask6.AssemblyInfo.cs
+C:\Users\viole\OneDrive\Работен плот\SAA_Exam_Tasks\ArrayExamTask6\obj\Debug\net8.0\ArrayExamTask6.csproj.CoreCompileInputs.cache
+C:\Users\viole\OneDrive\Работен плот\SAA_Exam_Tasks\ArrayExamTask6\obj\Debug\net8.0\ArrayExamTask6.dll
+C:\Users\viole\OneDrive\Работен плот\SAA_Exam_Tasks\ArrayExamTask6\obj\Debug\net8.0\refint\ArrayExamTask6.dll
+C:\Users\viole\OneDrive\Работен плот\SAA_Exam_Tasks\ArrayExamTask6\obj\Debug\net8.0\ArrayExamTask6.pdb
+C:\Users\viole\OneDrive\Работен плот\SAA_Exam_Tasks\ArrayExamTask6\obj\Debug\net8.0\ArrayExamTask6.genruntimeconfig.cache
+C:\Users\viole\OneDrive\Работен плот\SAA_Exam_Tasks\ArrayExamTask6\obj\Debug\net8.0\ref\ArrayExamTask6.dll
